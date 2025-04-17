@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+cd build || (echo "Cannot find build directory, please run 'npm run build'." && exit)
+
+if ! command -v node &> /dev/null
+then
+    echo "'node' not found in PATH, please install NodeJS."
+    exit
+fi
+
+x_run () {
+  node --enable-source-maps index.js
+  if [[ $? -eq 14 ]]; then
+    x_run
+  else
+    exit $?
+  fi
+}
+
+x_run

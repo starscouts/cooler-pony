@@ -1,0 +1,13 @@
+
+[2022-07-22T16:50:19.038Z] [verb] Generate CommandsLoader list
+[2022-07-22T16:50:19.039Z] [verb]     load: about.js
+[2022-07-22T16:50:19.042Z] [verb]     load: ping.js
+[2022-07-22T16:50:19.118Z] [verb] Starting Discord bot...
+[2022-07-22T16:50:19.807Z] [info] Logged in as Applebloom#7381!
+[2022-07-22T16:50:19.809Z] [verb] Generate CommandsLoader list
+[2022-07-22T16:50:19.809Z] [verb]     load: about.js
+[2022-07-22T16:50:19.811Z] [verb]     load: ping.js
+[2022-07-22T16:50:19.812Z] [info] Started refreshing application (/) commands.
+[2022-07-22T16:50:20.067Z] [verb] CommandsLoader: about
+[2022-07-22T16:50:20.067Z] [verb] CommandsLoader: ping
+[2022-07-22T16:50:20.222Z] [info] Successfully reloaded application (/) commands. Changes may take a while to appear on Discord.

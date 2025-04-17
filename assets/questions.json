@@ -1,0 +1,70 @@
+[
+  {
+    "question": "Are fictives welcome on the server?",
+    "response": ["Yes", "True", "They are", "They are more than welcome", "They are definitely!"]
+  },
+  {
+    "question": "Are ponykin creatures welcome here?",
+    "response": ["Yes", "True", "They are", "They are more than welcome", "They are definitely!"]
+  },
+  {
+    "question": "Plural systems and singlets should be treated...",
+    "response": ["equally", "the same", "equal", "likewise", "Like they are the same"]
+  },
+  {
+    "question": "MLP content must be hidden behind...",
+    "response": ["spoilers", "spoiler tags", "hidden tags", "content warnings"]
+  },
+  {
+    "question": "Is sexually explicit or NSFW content allowed?",
+    "response": ["No", "False", "Not at all", "It is not", "Not allowed", "It is not allowed"]
+  },
+  {
+    "question": "Is spam or shitposting allowed?",
+    "response": ["No", "False", "Not at all", "It is not", "Not allowed", "It is not allowed", "No, shitposting and spam isn't allowed", "No, shitposting and spam is not allowed", "No, shitposting or spam isn't allowed", "No, shitposting or spam is not allowed"]
+  },
+  {
+    "question": "Is advertising in any kind allowed?",
+    "response": ["No", "False", "Not at all", "It is not", "Not allowed", "It is not allowed", "Not Discord servers", "Only 24 hours", "Every 24 hours", "Only every 24 hours", "If it doesn't disturb", "If it doesn't disturb an ongoing conversation", "No money", "Not for money"]
+  },
+  {
+    "question": "Which types/origins of plural systems are allowed?",
+    "response": ["All of them", "Everything", "All origins", "All origins are allowed", "They are all", "They are all allowed"]
+  },
+  {
+    "question": "What does \"MLP\" stand for?",
+    "response": ["My Little Pony"]
+  },
+  {
+    "question": "Is plurality okay on this server?",
+    "response": ["Yes", "True", "It is", "It is more than welcome", "It is definitely!", "It's okay", "It is okay"]
+  },
+  {
+    "question": "Are mods willing to help with questions?",
+    "response": ["Yes", "True", "They are", "They are more than willing", "They are definitely!"]
+  },
+  {
+    "question": "Where are memes allowed?",
+    "response": ["#memes", "Memes channel", "<#996408303523479623>", "They are not allowed", "Not allowed", "Not in general"]
+  },
+  {
+    "question": "Is roleplay allowed?",
+    "response": ["No", "False", "Not at all", "It is not", "Not allowed", "It is not allowed", "No except fictives", "Not at all except fictives", "It is not except fictives", "Not allowed except fictives", "It is not allowed except fictives", "No except with fictives", "Not at all except with fictives", "It is not except with fictives", "Not allowed except with fictives", "It is not allowed except with fictives"]
+  },
+  {
+    "question": "Are humans allowed on this server?",
+    "response": ["Yes", "True", "They are", "I don't know", "idk", "Nothing prevents them", "Nothing prevents that", "Why not", "I guess", "I think", "I think so", "We don't know", "We guess", "We think", "We think so", "Of course", "They are as well"]
+  },
+  {
+    "question": "Why must your username or nickname contain a few English-common characters?",
+    "response": ["Ping", "@", "So it's easier to ping", "To ping it", "It's easier to ping", "Pingable", "Mention", "Mentionable", "So it's easier to mention", "To mention it", "It's easier to mention", "So it's easier to @", "To @ it", "It's easier to @", "For the mods", "The mods", "Mods", "Moderators", "For the moderators", "The moderators", "For the admins", "The admins", "Admins", "Administrators", "For the administrators", "The administrators"]
+  },
+  {
+    "question": "Are mods forced to provide a reason to their action?",
+    "response": ["No", "False", "They are not", "No", "I don't know", "I don't think so", "Don't think so", "We don't know", "We don't think so", "They don't have to", "It's recommended", "Recommended", "Maybe", "Perhaps", "idk"]
+  },
+  {
+    "question": "Are littles considered roleplay?",
+    "response": ["No", "False", "Not at all", "They are not", "Of course not", "It's not roleplay", "They are not roleplaying", "They are not roleplay", "They are not doing roleplay"]
+  }
+]

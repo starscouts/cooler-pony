@@ -1,0 +1,17 @@
+
+[2022-07-13T12:46:25.443Z] [verb] Generate CommandsLoader list
+[2022-07-13T12:46:25.443Z] [verb]     load: about.js
+[2022-07-13T12:46:25.445Z] [verb]     load: ping.js
+[2022-07-13T12:46:25.509Z] [verb] Starting Discord bot...
+[2022-07-13T12:46:26.367Z] [info] Logged in as Cooler Pony#7381!
+[2022-07-13T12:46:26.369Z] [verb] Generate CommandsLoader list
+[2022-07-13T12:46:26.370Z] [verb]     load: about.js
+[2022-07-13T12:46:26.370Z] [verb]     load: ping.js
+[2022-07-13T12:46:26.370Z] [info] Started refreshing application (/) commands.
+[2022-07-13T12:46:26.609Z] [verb] CommandsLoader: about
+[2022-07-13T12:46:26.610Z] [verb] CommandsLoader: ping
+[2022-07-13T12:46:26.812Z] [info] Successfully reloaded application (/) commands. Changes may take a while to appear on Discord.
+[2022-07-13T12:46:31.885Z] [warn] Cuties#3050 joined the server
+[2022-07-13T12:46:47.886Z] [verb] Question "Which types/origins of plural systems are allowed?": response "All of them", score 0.00000
+[2022-07-13T12:47:41.963Z] [warn] Cloudburst#0001 joined the server
+[2022-07-13T12:48:23.419Z] [verb] Question "Is sexually explicit or NSFW content allowed?": response "no", score 0.00000

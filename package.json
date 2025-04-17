@@ -1,0 +1,25 @@
+{
+  "name": "cooler-pony",
+  "version": "0.0.0",
+  "description": "A general-purpose Discord bot",
+  "main": "./build/index.js",
+  "scripts": {
+    "start": "cd ./build && node ./index.js",
+    "build": "tsc -p tsconfig.json && cp -r assets build && cp -r node_modules build"
+  },
+  "author": "Minteck",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.32.1",
+    "discord.js": "^13.7.0",
+    "fuse.js": "^6.6.2"
+  }
+}
